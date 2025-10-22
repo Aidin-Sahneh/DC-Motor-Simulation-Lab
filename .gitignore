@@ -1,0 +1,16 @@
+# MATLAB & Simulink
+*.asv
+*.bak
+*.log
+*.tmp
+*.autosave
+*~
+
+# Simulink cache files
+slxcache/
+*.slxc
+*.slx.r*
+*_ert_rtw/
+*_grt_rtw/
+*_slrt_rtw/
+sfprj/
