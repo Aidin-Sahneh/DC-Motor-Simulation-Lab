@@ -69,7 +69,7 @@ How to Use This Repository
 1.  **Clone the repository:**
 
     ```
-    git clone [https://github.com/Aidin-Sahneh/DC-Motor-Simulation-Lab.git](https://github.com/Aidin-Sahneh/DC-Motor-Simulation-Lab.git)
+    git clone https://github.com/Aidin-Sahneh/DC-Motor-Simulation-Lab.git
 
     ```
 
